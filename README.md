@@ -1,2 +1,17 @@
-# Fhack
-Fortnite hack client by hoe sulinka_#7622 with my help
+<html>
+ <body>
+  <h>Fhack</h>
+  <p>The Fortnite hack client</p>
+ </body>
+ <style>
+     h {
+         color: black;
+     }
+     p {
+         color: black;
+     }
+     body {
+         background-color: #0088FF;
+     }
+ </style>
+</html>
